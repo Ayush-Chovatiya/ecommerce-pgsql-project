@@ -67,7 +67,7 @@ ecommerce-postgresql-project/
 ## How to Run
 1. Create a PostgreSQL database
 2. Run `schema.sql` to create the tables
-3. Sample data
+3. Add sample data
 4. Run queries from `queries.sql`
 
 ---
