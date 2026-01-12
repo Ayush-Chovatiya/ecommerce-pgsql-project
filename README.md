@@ -55,10 +55,12 @@ These queries use joins, aggregations, subqueries.
 ---
 
 ## Project Structure
+```text
 ecommerce-postgresql-project/
 ├── schema.sql
 ├── queries.sql
 └── README.md
+```
 
 ---
 
